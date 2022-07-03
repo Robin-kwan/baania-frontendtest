@@ -1,5 +1,7 @@
 # baania-codetest
 
+This project is made with Vue and Vuetify
+
 ## Project setup
 ```
 npm install
